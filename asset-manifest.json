@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/DinterWeb/static/css/main.49ab2019.chunk.css",
+    "main.js": "/DinterWeb/static/js/main.8063e293.chunk.js",
+    "main.js.map": "/DinterWeb/static/js/main.8063e293.chunk.js.map",
+    "runtime-main.js": "/DinterWeb/static/js/runtime-main.4663b0b0.js",
+    "runtime-main.js.map": "/DinterWeb/static/js/runtime-main.4663b0b0.js.map",
+    "static/js/2.347296b6.chunk.js": "/DinterWeb/static/js/2.347296b6.chunk.js",
+    "static/js/2.347296b6.chunk.js.map": "/DinterWeb/static/js/2.347296b6.chunk.js.map",
+    "index.html": "/DinterWeb/index.html",
+    "static/css/main.49ab2019.chunk.css.map": "/DinterWeb/static/css/main.49ab2019.chunk.css.map",
+    "static/js/2.347296b6.chunk.js.LICENSE.txt": "/DinterWeb/static/js/2.347296b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4663b0b0.js",
+    "static/js/2.347296b6.chunk.js",
+    "static/css/main.49ab2019.chunk.css",
+    "static/js/main.8063e293.chunk.js"
+  ]
+}
