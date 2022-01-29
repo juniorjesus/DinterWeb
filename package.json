@@ -1,4 +1,5 @@
 {
+  "homepage":"https://juniorjesus.github.io/DinterWeb/",
   "name": "react-dinterweb",
   "version": "0.1.0",
   "private": true,
@@ -17,7 +18,9 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
-  "scripts": { 
+  "scripts": {
+    "predeploy":"npm run build",
+    "deploy": "gh-pages -d build",
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
