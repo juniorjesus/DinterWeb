@@ -6,7 +6,7 @@ const NotFound = () => (
     <div className=" text-3xl md:text-9xl dark:text-white "><b>404</b> - Not Found :(</div>
 
     <Link to="/react-dinterweb">
-      <h1 className="text-4xl mt-52 dark:text-white"> <i class="fas fa-home dark:text-white"></i> Go Home </h1>
+      <h1 className="text-4xl mt-52 dark:text-white"> <i class="fas fa-home dark:text-white"></i> Inicio </h1>
     
     </Link>
   </div>
